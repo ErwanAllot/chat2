@@ -1,16 +1,12 @@
-Le mot bindBetweenJsAndPhp permet de faire le liant 
-entre JS et PHP pour les sauts à la ligne.
+Le mot bindBetweenJsAndPhp permet de faire le liant entre JS et PHP pour les sauts à la ligne.
 
-La couleur est basée sur un cryptage d'adresse ip.
-Bon, là, il y a la réponse. Mais c'est dur de recréer l'ip même avec.
+La couleur est basée sur un cryptage d'adresse ip. Bon, là, il y a la réponse. Mais c'est dur de recréer l'ip même avec.
 
-Les fichiers textes 'tempo' permettent d'estimer le nombre de personnes 
-connectées.
-C'est un jeu en 3 parties.
-Dans un fichier, on s'ajoute ; 
-dans un second fichier on lit combien on est ;
-pendant qu'on remet le trosième fichier à 0.
+Les fichiers textes 'tempo' permettent d'estimer le nombre de personnes connectées. C'est un jeu en 3 parties.
+Dans un fichier, on s'ajoute ; dans un second fichier on lit combien on est ; pendant qu'on remet le trosième fichier à 0.
 Et à chaque intervalle, on modifie l'ordre des fichiers.
 
-Pour s'assurer que le chat fonctionne en (quasi) instantané, il faut 
-faire une requête ajax en post !
+Pour s'assurer que le chat fonctionne en (quasi) instantané, il faut faire une requête ajax en post !
+
+Vous pouvez visiter mon site pour voir le rendu : 
+https://erwanallot.com/chat2/
